@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-image: linear-gradient(to left, #B3E0F2, #BBE8F2, #D8EBF2, #F2E8E4 );
+    
+    
+}
+h1{
+    
+    background-color:#2990FF; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    }
+   
+
+audio{
+    height: 40px;
+    
+    
+}
+
